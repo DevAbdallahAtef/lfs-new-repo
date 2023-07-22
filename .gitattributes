@@ -1,0 +1,5 @@
+*.bin"
+git[[:space:]]lfs[[:space:]]track[[:space:]]*.bin
+
+
+
